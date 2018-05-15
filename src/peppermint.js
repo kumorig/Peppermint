@@ -1,4 +1,4 @@
-function Peppermint(_this, options) {
+module.exports = function Peppermint(_this, options) {
     var slider = {
             slides: [],
             dots: [],
